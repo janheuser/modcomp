@@ -17,7 +17,7 @@ cartopy
 
 Data required include:
 
-Anheuser et al. (2023) thermodynamic/dynamic effect observational estimates: https://doi.org/10.5281/zenodo.7987917 
-AWI CS2SMOS: https://www.meereisportal.de 
-CESM2 OMIP2: https://esgf.llnl.gov/index.html 
-PIOMAS: http://psc.apl.uw.edu/research/projects/arctic-sea-ice-volume-anomaly/data/model_grid 
+Anheuser et al. (2023) thermodynamic/dynamic effect observational estimates: https://doi.org/10.5281/zenodo.7987917  
+AWI CS2SMOS: https://www.meereisportal.de  
+CESM2 OMIP2: https://esgf.llnl.gov/index.html  
+PIOMAS: http://psc.apl.uw.edu/research/projects/arctic-sea-ice-volume-anomaly/data/model_grid  
