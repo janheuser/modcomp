@@ -6,14 +6,14 @@ Anheuser, J., Liu, Y., and Key, J.: Model Mean State Sea Ice Thickness Reflect D
 
 Scripts utilize Python 3.8.3 and Jupyter. Python packages required include:
 
-xarray
-matplotlib
-numpy
-cmocean
-pyproj
-scipy
-pandas
-cartopy 
+xarray   
+matplotlib   
+numpy   
+cmocean   
+pyproj   
+scipy   
+pandas   
+cartopy   
 
 Data required include:
 
